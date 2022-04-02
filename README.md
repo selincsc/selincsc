@@ -1,10 +1,27 @@
-<h1 align="center">Hi 👋, I'm Selin Çağlar</h1>
-<h3 align="center">An ambitious iOS developer from Turkey</h3>
+
+
+### Hey, [Selin Here!](https://selincsc.medium.com)
+
+<img src = 'https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif' width= 300 alt = 'Awesome Matrix Code' align='right'/>
+
+<p align="justify">
+  <a href='https://findmentor.network/peer/selin-çağlar-011065207'>
+    <img src="https://komarev.com/ghpvc/?username=selincsc" alt="selincsc" /> 
+  <a/>
+</p>
+
+[![Medium Badge](https://img.shields.io/badge/-selincsc-black?style=flat-square&logo=Medium&logoColor=white&link=https://selincsc.medium.com)](https://selincsc.medium.com)
+[![Linkedin Badge](https://img.shields.io/badge/-selincaglar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/selin-çağlar-011065207/)](https://www.linkedin.com/in/selin-çağlar-011065207/)
+[![Gmail Badge](https://img.shields.io/badge/-selincsc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:selincsc@gmail.com)](mailto:selincsc@gmail.com)
+
+## :detective: who is Selin Çağlar
+ceng student, mobile developer trying to be junior 👨‍💻📲
 
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=halilibrahimoztekin&label=Profile%20views&color=0e75b6&style=flat" alt="Bal olsaymısım" /> </p>
+
+
 
 - 🔭 I’m currently working on [Swift 5 and iOS Library](https://github.com/selincsc?tab=repositories)
 
@@ -49,4 +66,56 @@
 
 
 
-<img align=“right” src="https://github-readme-streak-stats.herokuapp.com/?user=selincsc&" alt=“selincsc” /></p>
+
+
+ 
+ 
+ ## Who am I?
+ ```swift
+class whoAmI {
+  let user = 'Selin Çağlar'
+  let birthYear = 1999
+  let currentEdu = "MSKU in Turkey"
+  let departmentOfEdu = "IT Eng"
+  let interest = "Mobile Application Development"
+
+  var hobbies = [
+  	   "design social media content",
+  	   "watching series",
+  	   "games",
+  	   "being up all Night chasing that ONE BUG..."
+  	   ]
+   
+   func getCity() -> String {
+       return "İzmir/Turkey"
+   }
+
+   func ambitions() {
+       PrepareAppForAppStore()
+       GraduateFromUniversity()
+       LearnEnglish()
+       BeSpeakerAtConference()
+   }
+}
+
+extension whoAmI {
+   func showSummaryofBio() -> String {
+   	let currentYear = Calendar.current.component(.year, from: Date())
+   	let age = currentYear - birthYear
+       return "Hello, I am \(user), \(age) years old. I'm studying \(departmentOfEdu) at \(currentEdu). I am currently interested in \(interest)"
+   }
+}
+	
+ ```
+
+![Selin's github stats](https://github-readme-stats.vercel.app/api?username=selincsc&show_icons=true&hide=[%22issues%22])
+<img align=“right” src="https://github-readme-streak-stats.herokuapp.com/?user=selincsc&" alt=“selincsc” />
+
+
+ 
+- :octocat: thanks to [@MarikIshtar007](https://github.com/MarikIshtar007) for this template 
+
+
+
+
+
