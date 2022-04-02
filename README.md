@@ -15,7 +15,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-selincsc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:selincsc@gmail.com)](mailto:selincsc@gmail.com)
 
 ## :detective: who is Selin Çağlar
-IT Eng student, mobile developer trying to be junior 👨‍💻📲
+IT Eng student, mobile deveLOVEper trying to be junior 👨‍💻📲
 
 
 
