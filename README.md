@@ -25,11 +25,11 @@ IT Eng student, mobile deveLOVEper trying to be junior 👨‍💻📲
 
 - 🔭 I’m currently working on [Swift 5 and iOS Library](https://github.com/selincsc?tab=repositories)
 
-- 🌱 I’m currently learning **Swift and iOS Development**
+- 🌿 I’m currently learning **Swift and iOS Development**
 
 - 🤝 I’m looking for help with [Using MVVM with Swift 5](https://github.com/selincsc?tab=repositories)
 
-- 👨‍💻 All of my projects are available at [https://github.com/selincsc?tab=repositories](https://github.com/selincsc?tab=repositories)
+- 👩‍💻 All of my projects are available at [https://github.com/selincsc?tab=repositories](https://github.com/selincsc?tab=repositories)
 
 - 📝 I regularly write articles on(SOON) [https://medium.com/@selincsc](https://medium.com/@selincsc)
 
