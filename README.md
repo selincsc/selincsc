@@ -12,7 +12,7 @@
 
 [![Medium Badge](https://img.shields.io/badge/-selincsc-black?style=flat-square&logo=Medium&logoColor=white&link=https://selincsc.medium.com)](https://selincsc.medium.com)
 [![Linkedin Badge](https://img.shields.io/badge/-selincaglar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/selin-çağlar-011065207/)](https://www.linkedin.com/in/selin-çağlar-011065207/)
-[![Gmail Badge](https://img.shields.io/badge/-selincsc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:selincsc@gmail.com)](mailto:selincsc@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-sselincaglarr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sselincaglarr@gmail.com)](mailto:sselincaglarr@gmail.com)
 
 ## :detective: who is Selin Çağlar
 IT Eng student, mobile deveLOVEper trying to be junior 👨‍💻📲
