@@ -15,7 +15,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-sselincaglarr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sselincaglarr@gmail.com)](mailto:sselincaglarr@gmail.com)
 
 ## :detective: who is Selin Çağlar
-IT Eng student, mobile deveLOVEper trying to be junior 👨‍💻📲
+Comp Eng , mobile deveLOVEper  👩🏼‍💻📲
 
 
 
@@ -33,7 +33,7 @@ IT Eng student, mobile deveLOVEper trying to be junior 👨‍💻📲
 
 - 📝 I regularly write articles on(SOON) [https://medium.com/@selincsc](https://medium.com/@selincsc)
 
-- 💬 Ask me about **Swift, RESTAPI, UIKİt, SwiftUI**
+- 💬 Ask me about **Swift, RESTAPI, UIKit, SwiftUI**
 
 - 📫 How to reach me **sselincaglarr@gmail.com**
 
