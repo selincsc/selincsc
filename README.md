@@ -33,7 +33,7 @@ Comp Eng , mobile deveLOVEper  👩🏼‍💻📲
 
 - 📝 I regularly write articles on(SOON) [https://medium.com/@selincsc](https://medium.com/@selincsc)
 
-- 💬 Ask me about **Swift, RESTAPI, UIKit, SwiftUI**
+- 💬 Ask me about **Swift, RESTAPI, SwiftUI**
 
 - 📫 How to reach me **sselincaglarr@gmail.com**
 
