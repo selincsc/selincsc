@@ -31,7 +31,7 @@ Comp Eng , mobile deveLOVEper  👩🏼‍💻📲
 
 - 👩‍💻 All of my projects are available at [https://github.com/selincsc?tab=repositories](https://github.com/selincsc?tab=repositories)
 
-- 📝 I regularly write articles on(SOON) [https://medium.com/@selincsc](https://medium.com/@selincsc)
+- 📝 I regularly write articles on [https://medium.com/@sselincaglarr](https://medium.com/@sselincaglarr)
 
 - 💬 Ask me about **Swift, RESTAPI, SwiftUI**
 
